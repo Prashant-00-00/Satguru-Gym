@@ -22,7 +22,7 @@ const Footer = () => {
         <div className="mt-8 md:mt-0 md:ml-8">
           <h1 className="font-medium text-xl text-brightRed">Address</h1>
           <p className="mt-4">
-            1243 near New grain market gate no 1, chowk, near Sunariya, Rohtak, Haryana 124001
+            New Grain Market Gate No 1, Near Sunariya Chowk, Rohtak, Haryana 124001
           </p>
         </div>
         <div className="mt-8 md:mt-0 md:ml-8">

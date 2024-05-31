@@ -10,9 +10,9 @@ const Trainers = () => {
       <h1 className="text-4xl font-semibold text-center mt-10">Our Trainers</h1>
 
       <div className="flex flex-col md:flex-row justify-center items-center gap-10 mt-8">
-        <TrainerCard img={img1} name="Maham" />
+        <TrainerCard img={img1} name="Sample" />
         <TrainerCard img={img2} name="Abhinav" />
-        <TrainerCard img={img3} name="Fatima" />
+        <TrainerCard img={img3} name="Sample" />
       </div>
     </div>
   );

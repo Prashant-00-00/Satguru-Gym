@@ -1,5 +1,5 @@
 import React from "react";
-import { BsInstagram, BsTwitter, BsFacebook, BsTwitterX } from "react-icons/bs";
+import { BsInstagram, BsFacebook, BsTwitterX } from "react-icons/bs";
 
 const TrainerCard = (props) => {
   return (
@@ -16,7 +16,7 @@ const TrainerCard = (props) => {
         <div className="flex justify-center gap-4">
           <a
             href="https://www.instagram.com/"
-            target="_blank"
+            target="/abhinav_singh740/"
             rel="noopener noreferrer"
           >
             <BsInstagram
